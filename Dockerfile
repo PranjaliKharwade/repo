@@ -5,4 +5,4 @@ COPY http-server /
 
 CMD ["/http-server"]
 CMD [“echo”,”Image created”] 
-asd
+
